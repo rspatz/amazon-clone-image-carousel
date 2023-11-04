@@ -1,0 +1,147 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.img-container {
+  height: 35rem;
+  background: red;
+}
+
+.promo {
+  height: 25rem;
+  width: 95%;
+  margin: -15rem auto;
+  padding: 0 auto;
+  display: flex;
+}
+
+.promo-1,
+.promo-2,
+.promo-3 {
+  height: 25rem;
+  width: 35%;
+  background: green;
+}
+
+.promo-1,
+.promo-2 {
+  margin-right: 1.5rem;
+}
+
+/* Movie Advertisement */
+.movie-ad {
+  height: 25rem;
+  width: 61.5%;
+  background: blue;
+  margin-top: 16.5rem;
+  margin: 16.5rem 2rem 0 2rem;
+}
+
+/* Promo-2 */
+.promo-b {
+  height: 25rem;
+  width: 95%;
+  margin: 0 auto;
+  padding: 0 auto;
+  display: flex;
+}
+
+.promo-3,
+.promo-4,
+.promo-5 {
+  height: 25rem;
+  width: 35%;
+  background: green;
+}
+
+.promo-3,
+.promo-4 {
+  margin-right: 1.5rem;
+}
+
+/* Promo-3 */
+.promo-c {
+  height: 25rem;
+  width: 95%;
+  margin: 0 auto;
+  padding: 0 auto;
+  display: flex;
+}
+
+.promo-6,
+.promo-7,
+.promo-8 {
+  height: 25rem;
+  width: 35%;
+  background: green;
+}
+
+.promo-6,
+.promo-7 {
+  margin-right: 1.5rem;
+}
+
+.promo-d {
+  height: 25rem;
+  width: 95%;
+  margin: 0 auto;
+  padding: 0 auto;
+  display: flex;
+}
+
+.promo-10,
+.promo-11,
+.promo-12 {
+  height: 25rem;
+  width: 35%;
+  background: green;
+}
+
+.promo-10,
+.promo-11 {
+  margin-right: 1.5rem;
+}
+
+/* Deals */
+.deals {
+  height: 25rem;
+  width: 95%;
+  background: red;
+  margin: 1.5rem auto;
+}
+
+.deals-2 {
+  height: 20rem;
+  width: 95%;
+  margin: 1.5rem auto;
+  background: purple;
+}
+
+.deals-3 {
+  height: 20rem;
+  width: 95%;
+  margin: 1.5rem auto;
+  background: orange;
+}
+
+.deals-4 {
+  height: 20rem;
+  width: 75%;
+  margin: 1.5rem auto;
+  background: pink;
+}
+
+.deals-5 {
+  height: 20rem;
+  width: 95%;
+  margin: 1.5rem auto;
+  background: orange;
+}
+
+.deals-6 {
+  height: 30rem;
+  width: 95%;
+  margin: 1.5rem auto;
+  background: blue;
+}
